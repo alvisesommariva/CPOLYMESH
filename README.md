@@ -4,6 +4,7 @@ Matlab/Octave version of CPOLYMESH (computation of certified Lebesgue constants 
 The Matlab package includes two demos, that we briefly comment.
 
 demo_cdes_1: by this routine we show
+
 • how to define the complex domain (several ways),
 
 • compute an admissible mesh (AM) of a fixed degree,
