@@ -1,7 +1,5 @@
 # CPOLYMESH
-Matlab/Octave version of CPOLYMESH (computation of certified Lebesgue constants on complex sets)
-
-Matlab/Octave version of CPOLYMESH
+Matlab/Octave version of CPOLYMESH (computation of certified Lebesgue constants on complex sets).
 
 The Matlab package includes two demos, that we briefly comment.
 
